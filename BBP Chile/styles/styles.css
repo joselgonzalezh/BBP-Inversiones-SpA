@@ -1,0 +1,153 @@
+.navbar {
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: #f5f5f5;
+}
+
+.nav-link {
+    color: #3b3939;
+}
+
+.nav-item {
+    margin-right: 30px;
+}
+
+
+.dropdown-menu {
+    margin-top: 0;
+}
+
+body {
+    background: url(../image/bg-tile.png) #000000;
+}
+
+.thermo {
+    font-family: 'Exo 2', sans-serif;
+
+    color: #ffd900;
+    font-style: italic;
+}
+
+.Semi {
+    font-family: 'Exo 2', sans-serif;
+
+    color: #2600ff;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 0.5px 0.5px 0.5px rgb(255, 255, 255);
+
+}
+
+.carousel-inner {
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+
+}
+
+.carousel-inner img {
+    max-height: 400px;
+    width: 100%;
+
+}
+
+.carousel-item {
+    text-align: center;
+
+}
+
+section {
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+.container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+article {
+    background: url(../image/bg-tile.png) #d1d1d1b4;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+section {
+    background: url(../image/bg-tile.png) #888888c7;
+    padding: 0%;
+   
+
+
+}
+
+.row {
+    justify-content: space-around;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-right: 35px;
+    padding-bottom: 15px;
+}
+
+aside {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: #c9c8ca;
+
+}
+
+.carousel-caption {
+    top: 0;
+    left: 0;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.text {
+    text-align: justify;
+    padding-left: 35px;
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-bottom: 35px;
+}
+
+.margen {
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-right: 35px;
+    padding-bottom: 15px;
+}
+
+.margen p {
+    text-align: justify;
+}
+
+footer {
+    border-top: 5px solid #2600ff;
+    border-bottom: 5px solid #2600ff;
+    background-color: #dfdddd;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.flag {
+    text-align: start;
+}
